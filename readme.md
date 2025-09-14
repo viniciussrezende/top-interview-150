@@ -277,7 +277,7 @@
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
 | **Palindrome Number** | Solution |  | [ ] | Easy |
-| **Plus One** | Solution |  | [ ] | Easy |
+| **Plus One** | Solution | [Link](https://github.com/viniciussrezende/top-interview-150/blob/main/src/math/plusone/PlusOneClass.java) | [❌] | Easy |
 | **Factorial Trailing Zeroes** | Solution |  | [ ] | Medium |
 | **Sqrt(x)** | Solution |  | [ ] | Easy |
 | **Pow(x, n)** | Solution |  | [ ] | Medium |
