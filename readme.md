@@ -6,30 +6,30 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Merge Sorted Array** | Solution | [Link]() | [ ] | Easy |
+| **Merge Sorted Array** | Solution |  | [ ] | Easy |
 | **Remove Element** | Solution | [Link](https://github.com/viniciussrezende/top-interview-150/blob/main/src/arraystring/removeelements/RemoveElementsClass.java) | [❌] | Easy |
-| **Remove Duplicates from Sorted Array** | Solution | [Link]() | [ ] | Easy |
-| **Remove Duplicates from Sorted Array II** | Solution | [Link]() | [ ] | Medium |
-| **Majority Element** | Solution | [Link]() | [ ] | Easy |
-| **Rotate Array** | Solution | [Link]() | [ ] | Medium |
-| **Best Time to Buy and Sell Stock** | Solution | [Link]() | [ ] | Easy |
-| **Best Time to Buy and Sell Stock II** | Solution | [Link]() | [ ] | Medium |
-| **Jump Game** | Solution | [Link]() | [ ] | Medium |
-| **Jump Game II** | Solution | [Link]() | [ ] | Medium |
-| **H-Index** | Solution | [Link]() | [ ] | Medium |
-| **Insert Delete GetRandom O(1)** | Solution | [Link]() | [ ] | Medium |
-| **Product of Array Except Self** | Solution | [Link]() | [ ] | Medium |
-| **Gas Station** | Solution | [Link]() | [ ] | Medium |
-| **Candy** | Solution | [Link]() | [ ] | Hard |
-| **Trapping Rain Water** | Solution | [Link]() | [ ] | Hard |
-| **Roman to Integer** | Solution | [Link]() | [ ] | Easy |
-| **Integer to Roman** | Solution | [Link]() | [ ] | Medium |
-| **Length of Last Word** | Solution | [Link]() | [ ] | Easy |
-| **Longest Common Prefix** | Solution | [Link]() | [ ] | Easy |
-| **Reverse Words in a String** | Solution | [Link]() | [ ] | Medium |
-| **Zigzag Conversion** | Solution | [Link]() | [ ] | Medium |
-| **Find the Index of the First Occurrence in a String** | Solution | [Link]() | [ ] | Easy |
-| **Text Justification** | Solution | [Link]() | [ ] | Hard |
+| **Remove Duplicates from Sorted Array** | Solution |  | [ ] | Easy |
+| **Remove Duplicates from Sorted Array II** | Solution |  | [ ] | Medium |
+| **Majority Element** | Solution |  | [ ] | Easy |
+| **Rotate Array** | Solution |  | [ ] | Medium |
+| **Best Time to Buy and Sell Stock** | Solution |  | [ ] | Easy |
+| **Best Time to Buy and Sell Stock II** | Solution |  | [ ] | Medium |
+| **Jump Game** | Solution |  | [ ] | Medium |
+| **Jump Game II** | Solution |  | [ ] | Medium |
+| **H-Index** | Solution |  | [ ] | Medium |
+| **Insert Delete GetRandom O(1)** | Solution |  | [ ] | Medium |
+| **Product of Array Except Self** | Solution |  | [ ] | Medium |
+| **Gas Station** | Solution |  | [ ] | Medium |
+| **Candy** | Solution |  | [ ] | Hard |
+| **Trapping Rain Water** | Solution |  | [ ] | Hard |
+| **Roman to Integer** | Solution |  | [ ] | Easy |
+| **Integer to Roman** | Solution |  | [ ] | Medium |
+| **Length of Last Word** | Solution |  | [ ] | Easy |
+| **Longest Common Prefix** | Solution |  | [ ] | Easy |
+| **Reverse Words in a String** | Solution |  | [ ] | Medium |
+| **Zigzag Conversion** | Solution |  | [ ] | Medium |
+| **Find the Index of the First Occurrence in a String** | Solution |  | [ ] | Easy |
+| **Text Justification** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -37,11 +37,11 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Valid Palindrome** | Solution | [Link]() | [ ] | Easy |
-| **Is Subsequence** | Solution | [Link]() | [ ] | Easy |
-| **Two Sum II - Input Array Is Sorted** | Solution | [Link]() | [ ] | Medium |
-| **Container With Most Water** | Solution | [Link]() | [ ] | Medium |
-| **3Sum** | Solution | [Link]() | [ ] | Medium |
+| **Valid Palindrome** | Solution |  | [ ] | Easy |
+| **Is Subsequence** | Solution |  | [ ] | Easy |
+| **Two Sum II - Input Array Is Sorted** | Solution |  | [ ] | Medium |
+| **Container With Most Water** | Solution |  | [ ] | Medium |
+| **3Sum** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -49,10 +49,10 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Minimum Size Subarray Sum** | Solution | [Link]() | [ ] | Medium |
-| **Longest Substring Without Repeating Characters** | Solution | [Link]() | [ ] | Medium |
-| **Substring with Concatenation of All Words** | Solution | [Link]() | [ ] | Hard |
-| **Minimum Window Substring** | Solution | [Link]() | [ ] | Hard |
+| **Minimum Size Subarray Sum** | Solution |  | [ ] | Medium |
+| **Longest Substring Without Repeating Characters** | Solution |  | [ ] | Medium |
+| **Substring with Concatenation of All Words** | Solution |  | [ ] | Hard |
+| **Minimum Window Substring** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -60,11 +60,11 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Valid Sudoku** | Solution | [Link]() | [ ] | Medium |
-| **Spiral Matrix** | Solution | [Link]() | [ ] | Medium |
-| **Rotate Image** | Solution | [Link]() | [ ] | Medium |
-| **Set Matrix Zeroes** | Solution | [Link]() | [ ] | Medium |
-| **Game of Life** | Solution | [Link]() | [ ] | Medium |
+| **Valid Sudoku** | Solution |  | [ ] | Medium |
+| **Spiral Matrix** | Solution |  | [ ] | Medium |
+| **Rotate Image** | Solution |  | [ ] | Medium |
+| **Set Matrix Zeroes** | Solution |  | [ ] | Medium |
+| **Game of Life** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -72,15 +72,15 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Ransom Note** | Solution | [Link]() | [ ] | Easy |
-| **Isomorphic Strings** | Solution | [Link]() | [ ] | Easy |
-| **Word Pattern** | Solution | [Link]() | [ ] | Easy |
-| **Valid Anagram** | Solution | [Link]() | [ ] | Easy |
-| **Group Anagrams** | Solution | [Link]() | [ ] | Medium |
-| **Two Sum** | Solution | [Link]() | [ ] | Easy |
-| **Happy Number** | Solution | [Link]() | [ ] | Easy |
-| **Contains Duplicate II** | Solution | [Link]() | [ ] | Easy |
-| **Longest Consecutive Sequence** | Solution | [Link]() | [ ] | Medium |
+| **Ransom Note** | Solution |  | [ ] | Easy |
+| **Isomorphic Strings** | Solution |  | [ ] | Easy |
+| **Word Pattern** | Solution |  | [ ] | Easy |
+| **Valid Anagram** | Solution |  | [ ] | Easy |
+| **Group Anagrams** | Solution |  | [ ] | Medium |
+| **Two Sum** | Solution |  | [ ] | Easy |
+| **Happy Number** | Solution |  | [ ] | Easy |
+| **Contains Duplicate II** | Solution |  | [ ] | Easy |
+| **Longest Consecutive Sequence** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -88,10 +88,10 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Summary Ranges** | Solution | [Link]() | [ ] | Easy |
-| **Merge Intervals** | Solution | [Link]() | [ ] | Medium |
-| **Insert Interval** | Solution | [Link]() | [ ] | Medium |
-| **Minimum Number of Arrows to Burst Balloons** | Solution | [Link]() | [ ] | Medium |
+| **Summary Ranges** | Solution |  | [ ] | Easy |
+| **Merge Intervals** | Solution |  | [ ] | Medium |
+| **Insert Interval** | Solution |  | [ ] | Medium |
+| **Minimum Number of Arrows to Burst Balloons** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -99,11 +99,11 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Valid Parentheses** | Solution | [Link]() | [ ] | Easy |
-| **Simplify Path** | Solution | [Link]() | [ ] | Medium |
-| **Min Stack** | Solution | [Link]() | [ ] | Medium |
-| **Evaluate Reverse Polish Notation** | Solution | [Link]() | [ ] | Medium |
-| **Basic Calculator** | Solution | [Link]() | [ ] | Hard |
+| **Valid Parentheses** | Solution |  | [ ] | Easy |
+| **Simplify Path** | Solution |  | [ ] | Medium |
+| **Min Stack** | Solution |  | [ ] | Medium |
+| **Evaluate Reverse Polish Notation** | Solution |  | [ ] | Medium |
+| **Basic Calculator** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -111,17 +111,17 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Linked List Cycle** | Solution | [Link]() | [ ] | Easy |
-| **Add Two Numbers** | Solution | [Link]() | [ ] | Medium |
-| **Merge Two Sorted Lists** | Solution | [Link]() | [ ] | Easy |
-| **Copy List with Random Pointer** | Solution | [Link]() | [ ] | Medium |
-| **Reverse Linked List II** | Solution | [Link]() | [ ] | Medium |
-| **Reverse Nodes in k-Group** | Solution | [Link]() | [ ] | Hard |
-| **Remove Nth Node From End of List** | Solution | [Link]() | [ ] | Medium |
-| **Remove Duplicates from Sorted List II** | Solution | [Link]() | [ ] | Medium |
-| **Rotate List** | Solution | [Link]() | [ ] | Medium |
-| **Partition List** | Solution | [Link]() | [ ] | Medium |
-| **LRU Cache** | Solution | [Link]() | [ ] | Medium |
+| **Linked List Cycle** | Solution |  | [ ] | Easy |
+| **Add Two Numbers** | Solution |  | [ ] | Medium |
+| **Merge Two Sorted Lists** | Solution |  | [ ] | Easy |
+| **Copy List with Random Pointer** | Solution |  | [ ] | Medium |
+| **Reverse Linked List II** | Solution |  | [ ] | Medium |
+| **Reverse Nodes in k-Group** | Solution |  | [ ] | Hard |
+| **Remove Nth Node From End of List** | Solution |  | [ ] | Medium |
+| **Remove Duplicates from Sorted List II** | Solution |  | [ ] | Medium |
+| **Rotate List** | Solution |  | [ ] | Medium |
+| **Partition List** | Solution |  | [ ] | Medium |
+| **LRU Cache** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -129,20 +129,20 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Maximum Depth of Binary Tree** | Solution | [Link]() | [ ] | Easy |
-| **Same Tree** | Solution | [Link]() | [ ] | Easy |
-| **Invert Binary Tree** | Solution | [Link]() | [ ] | Easy |
-| **Symmetric Tree** | Solution | [Link]() | [ ] | Easy |
-| **Construct Binary Tree from Preorder and Inorder Traversal**| Solution | [Link]() | [ ] | Medium |
-| **Construct Binary Tree from Inorder and Postorder Traversal**| Solution | [Link]() | [ ] | Medium |
-| **Populating Next Right Pointers in Each Node II** | Solution | [Link]() | [ ] | Medium |
-| **Flatten Binary Tree to Linked List** | Solution | [Link]() | [ ] | Medium |
-| **Path Sum** | Solution | [Link]() | [ ] | Easy |
-| **Sum Root to Leaf Numbers** | Solution | [Link]() | [ ] | Medium |
-| **Binary Tree Maximum Path Sum** | Solution | [Link]() | [ ] | Hard |
-| **Binary Search Tree Iterator** | Solution | [Link]() | [ ] | Medium |
-| **Count Complete Tree Nodes** | Solution | [Link]() | [ ] | Easy |
-| **Lowest Common Ancestor of a Binary Tree** | Solution | [Link]() | [ ] | Medium |
+| **Maximum Depth of Binary Tree** | Solution |  | [ ] | Easy |
+| **Same Tree** | Solution |  | [ ] | Easy |
+| **Invert Binary Tree** | Solution |  | [ ] | Easy |
+| **Symmetric Tree** | Solution |  | [ ] | Easy |
+| **Construct Binary Tree from Preorder and Inorder Traversal**| Solution |  | [ ] | Medium |
+| **Construct Binary Tree from Inorder and Postorder Traversal**| Solution |  | [ ] | Medium |
+| **Populating Next Right Pointers in Each Node II** | Solution |  | [ ] | Medium |
+| **Flatten Binary Tree to Linked List** | Solution |  | [ ] | Medium |
+| **Path Sum** | Solution |  | [ ] | Easy |
+| **Sum Root to Leaf Numbers** | Solution |  | [ ] | Medium |
+| **Binary Tree Maximum Path Sum** | Solution |  | [ ] | Hard |
+| **Binary Search Tree Iterator** | Solution |  | [ ] | Medium |
+| **Count Complete Tree Nodes** | Solution |  | [ ] | Easy |
+| **Lowest Common Ancestor of a Binary Tree** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -150,10 +150,10 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Binary Tree Right Side View** | Solution | [Link]() | [ ] | Medium |
-| **Average of Levels in Binary Tree** | Solution | [Link]() | [ ] | Easy |
-| **Binary Tree Level Order Traversal** | Solution | [Link]() | [ ] | Medium |
-| **Binary Tree Zigzag Level Order Traversal** | Solution | [Link]() | [ ] | Medium |
+| **Binary Tree Right Side View** | Solution |  | [ ] | Medium |
+| **Average of Levels in Binary Tree** | Solution |  | [ ] | Easy |
+| **Binary Tree Level Order Traversal** | Solution |  | [ ] | Medium |
+| **Binary Tree Zigzag Level Order Traversal** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -161,9 +161,9 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Minimum Absolute Difference in BST** | Solution | [Link]() | [ ] | Easy |
-| **Kth Smallest Element in a BST** | Solution | [Link]() | [ ] | Medium |
-| **Validate Binary Search Tree** | Solution | [Link]() | [ ] | Medium |
+| **Minimum Absolute Difference in BST** | Solution |  | [ ] | Easy |
+| **Kth Smallest Element in a BST** | Solution |  | [ ] | Medium |
+| **Validate Binary Search Tree** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -171,12 +171,12 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Number of Islands** | Solution | [Link]() | [ ] | Medium |
-| **Surrounded Regions** | Solution | [Link]() | [ ] | Medium |
-| **Clone Graph** | Solution | [Link]() | [ ] | Medium |
-| **Evaluate Division** | Solution | [Link]() | [ ] | Medium |
-| **Course Schedule** | Solution | [Link]() | [ ] | Medium |
-| **Course Schedule II** | Solution | [Link]() | [ ] | Medium |
+| **Number of Islands** | Solution |  | [ ] | Medium |
+| **Surrounded Regions** | Solution |  | [ ] | Medium |
+| **Clone Graph** | Solution |  | [ ] | Medium |
+| **Evaluate Division** | Solution |  | [ ] | Medium |
+| **Course Schedule** | Solution |  | [ ] | Medium |
+| **Course Schedule II** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -184,9 +184,9 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Snakes and Ladders** | Solution | [Link]() | [ ] | Medium |
-| **Minimum Genetic Mutation** | Solution | [Link]() | [ ] | Medium |
-| **Word Ladder** | Solution | [Link]() | [ ] | Hard |
+| **Snakes and Ladders** | Solution |  | [ ] | Medium |
+| **Minimum Genetic Mutation** | Solution |  | [ ] | Medium |
+| **Word Ladder** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -194,9 +194,9 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Implement Trie (Prefix Tree)** | Solution | [Link]() | [ ] | Medium |
-| **Design Add and Search Words Data Structure** | Solution | [Link]() | [ ] | Medium |
-| **Word Search II** | Solution | [Link]() | [ ] | Hard |
+| **Implement Trie (Prefix Tree)** | Solution |  | [ ] | Medium |
+| **Design Add and Search Words Data Structure** | Solution |  | [ ] | Medium |
+| **Word Search II** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -204,13 +204,13 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Letter Combinations of a Phone Number** | Solution | [Link]() | [ ] | Medium |
-| **Combinations** | Solution | [Link]() | [ ] | Medium |
-| **Permutations** | Solution | [Link]() | [ ] | Medium |
-| **Combination Sum** | Solution | [Link]() | [ ] | Medium |
-| **N-Queens II** | Solution | [Link]() | [ ] | Hard |
-| **Generate Parentheses** | Solution | [Link]() | [ ] | Medium |
-| **Word Search** | Solution | [Link]() | [ ] | Medium |
+| **Letter Combinations of a Phone Number** | Solution |  | [ ] | Medium |
+| **Combinations** | Solution |  | [ ] | Medium |
+| **Permutations** | Solution |  | [ ] | Medium |
+| **Combination Sum** | Solution |  | [ ] | Medium |
+| **N-Queens II** | Solution |  | [ ] | Hard |
+| **Generate Parentheses** | Solution |  | [ ] | Medium |
+| **Word Search** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -218,10 +218,10 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Convert Sorted Array to Binary Search Tree** | Solution | [Link]() | [ ] | Easy |
-| **Sort List** | Solution | [Link]() | [ ] | Medium |
-| **Construct Quad Tree** | Solution | [Link]() | [ ] | Medium |
-| **Merge k Sorted Lists** | Solution | [Link]() | [ ] | Hard |
+| **Convert Sorted Array to Binary Search Tree** | Solution |  | [ ] | Easy |
+| **Sort List** | Solution |  | [ ] | Medium |
+| **Construct Quad Tree** | Solution |  | [ ] | Medium |
+| **Merge k Sorted Lists** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -229,8 +229,8 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Maximum Subarray** | Solution | [Link]() | [ ] | Medium |
-| **Maximum Sum Circular Subarray** | Solution | [Link]() | [ ] | Medium |
+| **Maximum Subarray** | Solution |  | [ ] | Medium |
+| **Maximum Sum Circular Subarray** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -238,13 +238,13 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Search Insert Position** | Solution | [Link]() | [ ] | Easy |
-| **Search a 2D Matrix** | Solution | [Link]() | [ ] | Medium |
-| **Find Peak Element** | Solution | [Link]() | [ ] | Medium |
-| **Search in Rotated Sorted Array** | Solution | [Link]() | [ ] | Medium |
-| **Find First and Last Position of Element in Sorted Array** | Solution | [Link]() | [ ] | Medium |
-| **Find Minimum in Rotated Sorted Array** | Solution | [Link]() | [ ] | Medium |
-| **Median of Two Sorted Arrays** | Solution | [Link]() | [ ] | Hard |
+| **Search Insert Position** | Solution |  | [ ] | Easy |
+| **Search a 2D Matrix** | Solution |  | [ ] | Medium |
+| **Find Peak Element** | Solution |  | [ ] | Medium |
+| **Search in Rotated Sorted Array** | Solution |  | [ ] | Medium |
+| **Find First and Last Position of Element in Sorted Array** | Solution |  | [ ] | Medium |
+| **Find Minimum in Rotated Sorted Array** | Solution |  | [ ] | Medium |
+| **Median of Two Sorted Arrays** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -252,10 +252,10 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Kth Largest Element in an Array** | Solution | [Link]() | [ ] | Medium |
-| **IPO** | Solution | [Link]() | [ ] | Hard |
-| **Find K Pairs with Smallest Sums** | Solution | [Link]() | [ ] | Medium |
-| **Find Median from Data Stream** | Solution | [Link]() | [ ] | Hard |
+| **Kth Largest Element in an Array** | Solution |  | [ ] | Medium |
+| **IPO** | Solution |  | [ ] | Hard |
+| **Find K Pairs with Smallest Sums** | Solution |  | [ ] | Medium |
+| **Find Median from Data Stream** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -263,12 +263,12 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Add Binary** | Solution | [Link]() | [ ] | Easy |
-| **Reverse Bits** | Solution | [Link]() | [ ] | Easy |
-| **Number of 1 Bits** | Solution | [Link]() | [ ] | Easy |
-| **Single Number** | Solution | [Link]() | [ ] | Easy |
-| **Single Number II** | Solution | [Link]() | [ ] | Medium |
-| **Bitwise AND of Numbers Range** | Solution | [Link]() | [ ] | Medium |
+| **Add Binary** | Solution |  | [ ] | Easy |
+| **Reverse Bits** | Solution |  | [ ] | Easy |
+| **Number of 1 Bits** | Solution |  | [ ] | Easy |
+| **Single Number** | Solution |  | [ ] | Easy |
+| **Single Number II** | Solution |  | [ ] | Medium |
+| **Bitwise AND of Numbers Range** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -276,12 +276,12 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Palindrome Number** | Solution | [Link]() | [ ] | Easy |
-| **Plus One** | Solution | [Link]() | [ ] | Easy |
-| **Factorial Trailing Zeroes** | Solution | [Link]() | [ ] | Medium |
-| **Sqrt(x)** | Solution | [Link]() | [ ] | Easy |
-| **Pow(x, n)** | Solution | [Link]() | [ ] | Medium |
-| **Max Points on a Line** | Solution | [Link]() | [ ] | Hard |
+| **Palindrome Number** | Solution |  | [ ] | Easy |
+| **Plus One** | Solution |  | [ ] | Easy |
+| **Factorial Trailing Zeroes** | Solution |  | [ ] | Medium |
+| **Sqrt(x)** | Solution |  | [ ] | Easy |
+| **Pow(x, n)** | Solution |  | [ ] | Medium |
+| **Max Points on a Line** | Solution |  | [ ] | Hard |
 
 ---
 
@@ -289,11 +289,11 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Climbing Stairs** | Solution | [Link]() | [ ] | Easy |
-| **House Robber** | Solution | [Link]() | [ ] | Medium |
-| **Word Break** | Solution | [Link]() | [ ] | Medium |
-| **Coin Change** | Solution | [Link]() | [ ] | Medium |
-| **Longest Increasing Subsequence** | Solution | [Link]() | [ ] | Medium |
+| **Climbing Stairs** | Solution |  | [ ] | Easy |
+| **House Robber** | Solution |  | [ ] | Medium |
+| **Word Break** | Solution |  | [ ] | Medium |
+| **Coin Change** | Solution |  | [ ] | Medium |
+| **Longest Increasing Subsequence** | Solution |  | [ ] | Medium |
 
 ---
 
@@ -301,12 +301,12 @@
 
 | Problem | Solution | My Solution | Review? | Difficulty |
 | :--- | :---: | :---: | :---: | :---: |
-| **Triangle** | Solution | [Link]() | [ ] | Medium |
-| **Minimum Path Sum** | Solution | [Link]() | [ ] | Medium |
-| **Unique Paths II** | Solution | [Link]() | [ ] | Medium |
-| **Longest Palindromic Substring** | Solution | [Link]() | [ ] | Medium |
-| **Interleaving String** | Solution | [Link]() | [ ] | Medium |
-| **Edit Distance** | Solution | [Link]() | [ ] | Medium |
-| **Best Time to Buy and Sell Stock III** | Solution | [Link]() | [ ] | Hard |
-| **Best Time to Buy and Sell Stock IV** | Solution | [Link]() | [ ] | Hard |
-| **Maximal Square** | Solution | [Link]() | [ ] | Medium |
+| **Triangle** | Solution |  | [ ] | Medium |
+| **Minimum Path Sum** | Solution |  | [ ] | Medium |
+| **Unique Paths II** | Solution |  | [ ] | Medium |
+| **Longest Palindromic Substring** | Solution |  | [ ] | Medium |
+| **Interleaving String** | Solution |  | [ ] | Medium |
+| **Edit Distance** | Solution |  | [ ] | Medium |
+| **Best Time to Buy and Sell Stock III** | Solution |  | [ ] | Hard |
+| **Best Time to Buy and Sell Stock IV** | Solution |  | [ ] | Hard |
+| **Maximal Square** | Solution |  | [ ] | Medium |
